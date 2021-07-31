@@ -3870,4 +3870,11 @@ BLOG Pagination
   background-repeat: no-repeat;
   background-size: cover;
 }
+@font-face {
+  font-family: "allison script";
+  src: url("./fonts/Allison_Script.otf") format("opentype");
+}
+.signature{
+  font-family:"allison script" ,Salt, cursive
+}
 /*# sourceMappingURL=styles.css.map */
